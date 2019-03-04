@@ -5,8 +5,8 @@
    Tutorial 10
    Case Problem 2
 
-   Author: 
-   Date:   
+   Author: Melinda Chirila
+   Date:   3/4/2019
    
    Filename: hg_report.js
 	
